@@ -1,0 +1,10 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+exports.TabPanel = exports.TabTrigger = exports.useTabs = exports.Tabs = void 0;
+var TabsContext_1 = require("./components/TabsContext");
+Object.defineProperty(exports, "Tabs", { enumerable: true, get: function () { return TabsContext_1.Tabs; } });
+Object.defineProperty(exports, "useTabs", { enumerable: true, get: function () { return TabsContext_1.useTabs; } });
+var TabTrigger_1 = require("./components/TabTrigger");
+Object.defineProperty(exports, "TabTrigger", { enumerable: true, get: function () { return TabTrigger_1.TabTrigger; } });
+var TabPanel_1 = require("./components/TabPanel");
+Object.defineProperty(exports, "TabPanel", { enumerable: true, get: function () { return TabPanel_1.TabPanel; } });
