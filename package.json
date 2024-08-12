@@ -1,6 +1,6 @@
 {
   "name": "@souzjfe/react-tabs-router",
-  "version": "1.0.3",
+  "version": "1.0.5",
   "description": "A composable tabs component for React with TypeScript",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
